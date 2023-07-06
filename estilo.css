@@ -1,0 +1,59 @@
+body{
+    margin: 100px;
+background-color: rgb(100, 100, 231);
+font: normal 15pt Arial;
+}
+
+
+.titulo{
+    background-color: rgb(49, 47, 47);
+background-color: rgb(49, 47, 47);
+color: white;
+border-radius: 15px;
+}
+header{
+display: contents;
+
+bottom: 300;
+right: -500px;
+width: 200px;
+background-color: rgb(49, 47, 47);
+color: white;
+text-align: center;
+border-radius: 15px;
+
+
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0,0, 0.363);
+
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+#foto{ 
+   
+    width: 250px;  
+    height: 250px;
+    border-radius: 50%;}
+.botao{
+    background-color: rgb(226, 12, 12);
+    color:whitesmoke;
+    border-radius: 10px;
+    padding: 15px;
+    width: 150px;
+    font-size: 20px;
+
+}
+.data{
+font-size: 20px;
+font-family: cursive;
+color: rgb(38, 12, 189);
+}
